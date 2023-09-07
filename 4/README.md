@@ -1,0 +1,1 @@
+Client-server program where the client takes the data and divisor from the user, to send to the server. The server sends the crc (Cyclic Redundancy Check) data. The client displays the crc along with the final codeword.
